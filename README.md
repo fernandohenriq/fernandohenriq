@@ -30,7 +30,7 @@ I'm a Mid-level FullStack Software Engineer based in Brazil.
   <!-- Heroku -->
   <img src="https://img.shields.io/badge/Heroku-323330?style=for-the-badge&logo=heroku&logoColor=430098" />
   <!-- Amazon_AWS -->
-  <img src="https://img.shields.io/badge/Amazon_AWS-323330?style=for-the-badge&logo=amazon-aws&logoColor=232F3E" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-323330?style=for-the-badge&logo=amazon-aws&logoColor=FFFFFF" />
   <!-- Google_Cloud -->
   <img src="https://img.shields.io/badge/Google_Cloud-323330?style=for-the-badge&logo=google-cloud&logoColor=4285F4" />
 </div>
