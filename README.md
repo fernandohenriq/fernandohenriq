@@ -4,7 +4,7 @@ I'm a Mid-level FullStack Software Engineer based in Brazil.
 
 - 💼 I’m currently open for new opportunities
 - 👨‍💻 I usually work with `.ts` and `.tsx` files
-- 🔎 Learning all about software design and design patterns
+- 🔎 Learning all about software design patterns
 
 ## 🛠️ Tech Stack
 
