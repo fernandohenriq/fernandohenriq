@@ -2,7 +2,7 @@
 
 I'm a Mid-level FullStack Software Engineer based in Brazil.
 
-- 💼 I’m currently open for new opportunities
+- 💼 Check Full Commerce Modular
 - 👨‍💻 I usually work with `.ts` and `.tsx` files
 - 🔎 Learning all about software design patterns
 
